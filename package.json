@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap_project",
+  "version": "1.0.0",
+  "description": "Project built with HTML, CSS and Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.79.4",
+    "vite": "^5.4.8"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3"
+  }
+}
